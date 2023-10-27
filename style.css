@@ -8,3 +8,11 @@
     background-size: cover;
     background-position: center;
 } */
+
+body {
+    background-color: #EFFFE9;
+}
+
+.container {
+    background-color: #2EC4B6;
+}
