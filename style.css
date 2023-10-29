@@ -13,6 +13,34 @@ body {
     background-color: #EFFFE9;
 }
 
-.container {
+.card {
     background-color: #2EC4B6;
+}
+
+.card-title {
+    color: #EFFFE9;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-size: 3vh;
+}
+header {
+    font-size: 5vh;
+    color: #2EC4B6;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-style: italic;
+}
+
+#reservation{
+    width: 100%;
+}
+
+#girl{
+    color: pink;
+}
+
+#boy{
+    color: blue;
+}
+
+.turquoise{
+    color: #2EC4B6;
 }
